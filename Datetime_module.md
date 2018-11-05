@@ -1,2 +1,2 @@
-1. Get local time
-tz.localize(datetime.datetime.now())
+#### 1.Get local time
+    tz.localize(datetime.datetime.now())
